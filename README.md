@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Aleksandr
-- 👀 I’m interested in web security 
+- 👀 I’m interested in web and cloud security
 - 🌱 I’m currently learning Bug Bounty Hunting and python
 - 💞️ I’m looking for collaboration in python projects
 - 📫 Feel free to message me — I’d like to chat.
